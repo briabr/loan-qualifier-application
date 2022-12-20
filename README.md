@@ -1,6 +1,8 @@
 # Project Title
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+Applying software-engineering best practices to add new features and enhancements to the loan qualifier application.
+ 
+<!-- Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project. -->
 
 ---
 
