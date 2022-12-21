@@ -39,3 +39,6 @@ Bria El Filali
 ## License
 
 [BSD 3](LICENSE)
+
+## GitHub Repo
+https://github.com/briabr/loan-qualifier-application

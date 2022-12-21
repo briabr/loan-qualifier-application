@@ -47,6 +47,3 @@ def save_csv(csvpath, data):
 #         # for item in data:
 #         #     csvwriter.writerow(data)
 #         print(data)
-
-
-
