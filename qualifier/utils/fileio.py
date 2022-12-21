@@ -28,3 +28,20 @@ def load_csv(csvpath):
         for row in csvreader:
             data.append(row)
     return data
+
+def save_csv(csvpath,data):
+    with open(csvpath, "w") as csvfile:
+        # Create a csvwriter
+        csvwriter = csv.writer(csvfile, delimiter=",")
+
+        # Write the header to the CSV file
+        # csvwriter.writerow()
+
+        # Write the values of each dictionary inside of `big_raisers`
+        # as a row in the CSV file.
+        # for item in data:
+        #     csvwriter.writerow(data)
+        print(data)
+
+
+
