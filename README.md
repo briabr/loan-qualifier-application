@@ -12,29 +12,28 @@ Applying software-engineering best practices to add new features and enhancement
 [![Package Status](https://img.shields.io/pypi/status/pandas.svg)](https://pypi.org/project/pandas/)
 ---
 
+## Technologies
+
+>Python programing, Questionary and Fire packages.
+
 ## Installation Guide
-```sh
-#conda
-conda activate dev
-```
+>1-Install python and anaconda
+
+>2-Run conda activate dev
 ---
 
 ## Usage
 
-```python
-python app.py
-```
-```python
-Enter file relative path
-```
-```python
-Answer the prompted questions
-```
+>1-python app.py
+
+>2-Enter file relative path
+
+>3-Answer the prompted questions
 ---
 
 ## Contributors
-Bria El Filali
 
+Bria El Filali
 ---
 
 ## License

@@ -1,0 +1,1023 @@
+   50  npm run build
+   51  git add -A
+   52  git commit -m "commiting changes"
+   53  git pull origin main
+   54  npm run develop
+   55  npm start
+   56  git add -A
+   57  git commit -m "added build script to root package json and client package json"
+   58  git push origin main 
+   59  git add -A
+   60  git commit -m "added build script to root package json and client package json"
+   61  git push heroku main 
+   62  node --version
+   63  git add -A
+   64  git commit -m "pushing changes again"
+   65  git push origin main 
+   66  git add -A
+   67  git commit -m "chaned the build script to its previous on on clients"
+   68  git push origin main 
+   69  git add -A
+   70  git commit -m "chaned the build script to its previous on on clients"
+   71  git push heroku main 
+   72  heroku logs --tail
+   73  git rm -r . --cached
+   74  git add .
+   75  git rm -r . --cached
+   76  git add .
+   77  git commit -m "deleted node modules"
+   78  git push 
+   79  git add .
+   80  git commit -m "deleted node modules"
+   81  git push heroku main 
+   82  npm run develop
+   83  npm i
+   84  npm rundevelop
+   85  npm run develop
+   86  npm run develop
+   87  npm install @apollo/server graphql
+   88  git add -A
+   89  git commit -m "commiting changes"
+   90  git pull
+   91  heroku login 
+   92  heroku logs --tail
+   93  heroku logs --tail
+   94  heroku ps
+   95  heroku ps:scale web=1
+   96  heroku logs --tail
+   97  heroku create
+   98  git add -A
+   99  git commit -m "pushing to heroku"
+  100  git push heroku main 
+  101  git push heroku main
+  102  git add -A
+  103  git commit -m "deleted the heroku app"
+  104  git push origin main 
+  105  git add -A
+  106  git commit -m "pushing to heroku"
+  107  git push heroku main
+  108  git push heroku afternoon-beyond-02757
+  109  npm install @apollo/server graphql
+  110  npm i apollo-server-express
+  111  npm run develop
+  112  git add -A
+  113  git commit -m "added app.get() route"
+  114  git push origin main
+  115  npm run develop
+  116  npm run develop
+  117  git add -A
+  118  git commit -m "debugged auth.js"
+  119  git push
+  120  git add -A
+  121  git commit -m "debugged for App.js and index.js"
+  122  git push 
+  123  git add -A
+  124  git commit -m "pushing to heroku"
+  125  git push heroku main 
+  126  git push origin main 
+  127  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-Workspace/HomeworkRepo/loan_analyzer/Fintech-challenge1/loan_analyzer.py
+  128  git add -A
+  129  git commit -m "added README"
+  130  git push 
+  131  git add -A
+  132  git commit -m "edited REAME"
+  133  git push 
+  134  git init
+  135  git add -A
+  136  git commit -m "initial commit"
+  137  git remote add origin git@github.com:briabr/loan-qualifier-application.git\ngit branch -M main\ngit push -u origin main
+  138  git add -A
+  139  git commit -m "commiting changes"
+  140  git pull 
+  141  git config pull.rebase false
+  142  git pull origin main 
+  143  npm start
+  144  npm i react-helmet
+  145  npm start
+  146  npm start
+  147  npm start
+  148  npm install react-icons --save\n
+  149  npm start
+  150  yarn add react-helmet-async\nnpm i react-helmet-async
+  151  npm start
+  152  npm start
+  153  npm start
+  154  git add -A
+  155  git commit -m "comented the app.css in the app.js"
+  156  git push 
+  157  npm run deploy
+  158  git add -A
+  159  git commit -m " checking if pushing to heroku works"
+  160  git push heroku main 
+  161  git remote rm heroku\n
+  162  git remote add heroku https://git.heroku.com/afternoon-beyond-02757
+  163  git add -A
+  164  git commit -m " checking if pushing to heroku works"
+  165  git push heroku main 
+  166  git remote rm heroku\n
+  167  git remote add heroku https://git.heroku.com/afternoon-beyond-02757.git
+  168  git add -A
+  169  git commit -m " checking if pushing to heroku works"
+  170  git push heroku main 
+  171  git remote rm heroku\n
+  172  git remote rm heroku\n
+  173  git remote add heroku git@heroku.com:afternoon-beyond-02757.git
+  174  git add -A
+  175  git commit -m " checking if pushing to heroku works"
+  176  git push heroku main 
+  177  git remote rm heroku\n
+  178  git remote add heroku git@heroku.com:afternoon-beyond-02757.git
+  179  git add -A
+  180  git commit -m " checking if pushing to heroku works"
+  181  git push heroku main 
+  182  git rm -r node_modules/\n\n
+  183  git rm -r . --cached
+  184  git add .
+  185  git commit -m " checking if pushing to heroku works"
+  186  git push heroku main 
+  187  git rm -r node_modules/\n\n
+  188  clear
+  189  git rm -r . --cached
+  190  git rm -r . --cached
+  191  git rm -r node_modules/\n\n
+  192  git rm -r . --cached
+  193  git rm -r . --cached
+  194  git add .
+  195  git commit -m "trying to see if pushing to heroku is working"
+  196  git push origin main
+  197  git add .
+  198  git commit -m "trying to see if pushing to heroku is working"
+  199  git push heroku main 
+  200  heroku login 
+  201  git add .
+  202  git commit -m "trying to see if pushing to heroku is working"
+  203  git push heroku main 
+  204  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/automation.py
+  205  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/automation.py
+  206  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/automation.py
+  207  clear
+  208  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/automation.py
+  209  clear
+  210  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/automation.py
+  211  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/automation.py
+  212  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/automation.py
+  213  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/automation.py
+  214  /usr/bin/python3 "/Users/lilybro/Desktop/Fintech-Workspace/01_Racking_Up_The_Profit 4/Unsolved/racking_up_the_profit.py"
+  215  /usr/bin/python3 "/Users/lilybro/Desktop/Fintech-Workspace/01_Racking_Up_The_Profit 4/Unsolved/racking_up_the_profit.py"
+  216  /usr/bin/python3 "/Users/lilybro/Desktop/Fintech-Workspace/01_Racking_Up_The_Profit 4/Unsolved/racking_up_the_profit.py"
+  217  /usr/bin/python3 "/Users/lilybro/Desktop/Fintech-Workspace/01_Racking_Up_The_Profit 4/Unsolved/racking_up_the_profit.py"
+  218  /usr/bin/python3 "/Users/lilybro/Desktop/Fintech-Workspace/01_Racking_Up_The_Profit 4/Unsolved/racking_up_the_profit.py"
+  219  /usr/bin/python3 "/Users/lilybro/Desktop/Fintech-Workspace/01_Racking_Up_The_Profit 4/Unsolved/racking_up_the_profit.py"
+  220  /usr/bin/python3 "/Users/lilybro/Desktop/Fintech-Workspace/01_Racking_Up_The_Profit 4/Unsolved/racking_up_the_profit.py"
+  221  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/nested.py
+  222  clear
+  223  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/nested.py
+  224  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/nested.py
+  225  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/nested.py
+  226  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/nested.py
+  227  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/nested.py
+  228  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/nested.py
+  229  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/nested.py
+  230  clear
+  231  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/nested.py
+  232  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/nested.py
+  233  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/nested.py
+  234  /usr/bin/python3 /Users/lilybro/Desktop/Fintech-class-folder/classOneExamples/nested.py
+  235  git add -A
+  236  git commit -m "commiting changes"
+  237  git pull origin main 
+  238  git pull
+  239  git add -A
+  240  git commit -m "commiting changes"
+  241  git pull origin main 
+  242  git fetch origin\ngit checkout 19-add-seed-data
+  243  git switch 10-server-schemas
+  244  git add -A
+  245  git commit -m "commiting changes"
+  246  git pull origin main 
+  247  git add -A
+  248  git commit -m "commiting changes"
+  249  git pull origin main 
+  250  git status
+  251  git branch
+  252  git add -A
+  253  git commit -m "created user seeds"
+  254  git status
+  255  git pull origin main 
+  256  git config pull.rebase false 
+  257  git pull
+  258  git pull origin main 
+  259  npm run seed
+  260  npm run seed
+  261  npm run seed
+  262  npm run seed
+  263  npm run seed
+  264  npm run seed
+  265  npm run seed
+  266  npm run seed
+  267  npm run seed
+  268  npm run seed
+  269  npm run seed
+  270  npm run seed
+  271  npm run seed
+  272  npm run seed
+  273  npm run seed
+  274  npm run seed
+  275  npm run seed
+  276  npm run seed
+  277  git add -A
+  278  git commit -m " created postSeeds,Seed.js,userSeeds and edited some mistakes in the models"
+  279  git push 10-server-schemas
+  280  git push origin  10-server-schemas
+  281  git add -A
+  282  git commit -m "commiting changes"
+  283  git pull origin main 
+  284  npm run develop
+  285  npm run seed
+  286  npm run seed
+  287  npm run seed
+  288  git add -A
+  289  git commit -m "commiting changes"
+  290  git pull origin main 
+  291  git add -A
+  292  git commit"merged resolved"
+  293  npm run seed
+  294  npm run seed
+  295  npm run seed
+  296  npm run seed
+  297  npm run seed
+  298  npm run seed
+  299  npm run seed
+  300  npm run seed
+  301  npm run seed
+  302  npm run seed
+  303  npm run seed
+  304  npm run seed
+  305  npm run seed
+  306  npm run seed
+  307  npm run seed
+  308  npm run seed
+  309  npm run seed
+  310  npm run seed
+  311  npm run seed
+  312  npm run seed
+  313  npm run seed
+  314  npm run seed
+  315  npm run seed
+  316  npm run seed
+  317  npm run seed
+  318  npm run seed
+  319  npm run seed
+  320  npm run seed
+  321  npm run seed
+  322  npm run seed
+  323  npm run seed
+  324  npm run seed
+  325  npm run seed
+  326  npm run seed
+  327  npm run seed
+  328  npm run seed
+  329  npm run seed
+  330  npm run seed
+  331  npm run seed
+  332  npm run seed
+  333  npm run seed
+  334  npm run seed
+  335  npm run seed
+  336  npm run seed
+  337  npm run seed
+  338  npm run seed
+  339  npm run seed
+  340  npm run seed
+  341  npm run seed
+  342  npm run seed
+  343  npm run seed
+  344  npm run seed
+  345  npm run seed
+  346  npm run seed
+  347  git add -A
+  348  git commit -m "commiting changes"
+  349  git pull origin main 
+  350  git add -A
+  351  git commit -m "updated seed.js"
+  352  git push origin 10-server-schemas
+  353  git add -A
+  354  git commit -m "commit changes"
+  355  git pull origin main 
+  356  conda activate
+  357  jupyter lab
+  358  git add -A
+  359  git commit -m "commiting changes"
+  360  git pull origin main 
+  361  git add -A
+  362  git commit -m "commiting changes"
+  363  git push heroku main
+  364  heroku login
+  365  git add -A
+  366  git push heroku main
+  367  git add -A
+  368  git commit -m "commiting changes"
+  369  git push heroku main
+  370  git add -A
+  371  git commit -m "commiting changes"
+  372  git push heroku main
+  373  git add -A
+  374  git commit -m "commiting changes"
+  375  git pull origin main 
+  376  git commit -m "merged resolved"
+  377  npm run dev:server
+  378  npm run seed
+  379  npm run dev:server
+  380  npm run dev:server
+  381  nom run dev:server
+  382  npm run dev:server
+  383  npm run seed
+  384  npm run dev:server
+  385  npm run seed
+  386  npm run dev:server
+  387  git add -A
+  388  git commit -m "commiting changes"
+  389  git pull origin main 
+  390  git add -A
+  391  git fetch origin\ngit checkout 56-utils-mutation-queries-and-localstorage
+  392  git switch 56-utils-mutation-queries-and-localstorage
+  393  git add -A
+  394  git commit -m "merge resolved"
+  395  56-utils-mutation-queries-and-localstorage
+  396  git fetch origin\ngit checkout 56-utils-mutation-queries-and-localstorage
+  397  git add -A
+  398  git branch
+  399  git add -a
+  400  git commit -m "resolvers, typedefs, mutations, queries all good"
+  401  git push origin 56-utils-mutation-queries-and-localstorage
+  402  git add -a
+  403  git add -A
+  404  git commit -m "resolvers, typedefs, mutations, queries all good"
+  405  git push origin 56-utils-mutation-queries-and-localstorage
+  406  git log
+  407  git log
+  408  git checkout 0f0d335689f88892faf5e2ee7771fec333f88235
+  409  git log
+  410  git status
+  411  git branch
+  412  git revert --no-commit 0f0d335689f88892faf5e2ee7771fec333f88235..HEAD
+  413  git add -A
+  414  git commit -m "resolvers,typedefs,mutations and queries all done"
+  415  git push origin 56-utils-mutation-queries-and-localstorage
+  416  git checkout HEAD~1
+  417  git branch
+  418  git checkout 56-utils-mutation-queries-and-localstorage
+  419  git checkout HEAD~1
+  420  git log
+  421  git checkout 0f0d335689f88892faf5e2ee7771fec333f88235
+  422  git add -A
+  423  git commit -m "merged and about to create new branch"
+  424  git checkout -b restore-12131412 0f0d335689f88892faf5e2ee7771fec333f88235
+  425  git branch restore2-12131412 3cce07c
+  426  git branch
+  427  git add -A
+  428  git commit -m "ready to push"
+  429  git push origin restore-12131412
+  430  git add -A
+  431  git commit -m "commiting changes"
+  432  git pull origin main 
+  433  npm start
+  434  npm run dev
+  435  git add -A
+  436  git commit -m "commiting changes"
+  437  git pull origin main 
+  438  npm run dev:server
+  439  npm run dev
+  440  npm i
+  441  npm run dev
+  442  heroku login 
+  443   git remote -v
+  444  git add -A
+  445  git commit -m "commiting changes"
+  446  git push heroku main
+  447  heroku login
+  448  git add -A
+  449  git commit -m "commiting changes"
+  450  git push heroku main
+  451  git remote
+  452  git status
+  453  git push heroku main
+  454  heroku git:remote -a afternoon-beyond-02757\n
+  455  git add -A
+  456  git commit -m "commiting changes"
+  457  git push heroku main
+  458  node -v
+  459  git add -A
+  460  git commit -m "commiting changes"
+  461  git push heroku main
+  462  git add -A
+  463  git commit -m "commiting changes"
+  464  git push heroku main
+  465  git add -A
+  466  git commit -m "commiting changes"
+  467  git push heroku main
+  468  git add -A
+  469  git commit -m "commiting changes"
+  470  git push heroku main
+  471  heroku login
+  472  heroku logs --tail
+  473  npm run develop
+  474  npm start
+  475  git add -A
+  476  git commit -m "commiting to heroku"
+  477  git push origin main 
+  478  git add -A
+  479  git commit -m "commitng to heroku"
+  480  git push heroku main 
+  481  npm start
+  482  npm run start:dev
+  483  npm i
+  484  npm run start:dev
+  485  npm run start:dev
+  486  git add -A
+  487  git commit -m "recreated the app, the app is functioning, debugged errors in the console"
+  488  git push origin main 
+  489  npm i 
+  490  npm run dev
+  491  /usr/bin/python3 /Users/lilybro/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  492  /usr/bin/python3 /Users/lilybro/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  493  /usr/bin/python3 /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan_analyzer/Fintech-challenge1/loan_analyzer.py
+  494  /usr/bin/python3 /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan_analyzer/Fintech-challenge1/loan_analyzer.py
+  495  /usr/bin/python3 /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan_analyzer/Fintech-challenge1/loan_analyzer.py
+  496  /usr/bin/python3 /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan_analyzer/Fintech-challenge1/loan_analyzer.py
+  497  /usr/bin/python3 /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan_analyzer/Fintech-challenge1/loan_analyzer.py
+  498  /usr/bin/python3 /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan_analyzer/Fintech-challenge1/loan_analyzer.py
+  499  /usr/bin/python3 /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan_analyzer/Fintech-challenge1/loan_analyzer.py
+  500  /usr/bin/python3 /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan_analyzer/Fintech-challenge1/loan_analyzer.py
+  501  /usr/bin/python3 /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan_analyzer/Fintech-challenge1/loan_analyzer.py
+  502  /usr/bin/python3 /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan_analyzer/Fintech-challenge1/loan_analyzer.py
+  503  git add -A
+  504  git commit -m "assignment completed"
+  505  git push origin main 
+  506  git add -A
+  507  git add -A
+  508  git add -A
+  509  git commit -m "imported save_csv and returned save_csv function"
+  510  git push origin main 
+  511  git add -A
+  512  git commit -m "solved part five related to csv file"
+  513  git push origin main 
+  514  git add -a
+  515  git add -A
+  516  git commit -m "commiting changes"
+  517  git pull origin main 
+  518  git config pull.rebase false
+  519  git pull origin main 
+  520  git add -A
+  521  git commit -m "commmiting changes"
+  522  git pull origin main 
+  523  npm run dev
+  524  npx diagnose-endpoint@1.1.0 --endpoint=http://localhost:3001/graphql
+  525  mysql -u root -p
+  526  mysql -u root -p
+  527  heroku login
+  528  heroku create
+  529  npm start
+  530  npm start
+  531  killall node
+  532  npm start
+  533  npm start
+  534  npm start
+  535  killall node
+  536  npm start
+  537  npm start
+  538  npm start
+  539  npm start
+  540  npm start
+  541  killall node
+  542  npm start
+  543  npm start
+  544  npm start
+  545  killall node
+  546  npm start
+  547  npm start
+  548  killall node
+  549  npm start
+  550  mysql -u root -p 
+  551  npm run dev
+  552  npm run dev
+  553  killall node
+  554  npm run dev
+  555  npm run dev
+  556  git add -A
+  557  git commit -m "commiting changes"
+  558  git pull origin main 
+  559  git add -A
+  560  git commit -m "added ./me to navbarcomponents"
+  561  git push origin restore-12131412
+  562  git fetch origin\ngit checkout 36-user-profile-page
+  563  git pull origin restore-12131412
+  564  git add -A
+  565  git commit -m "commmiting changes"
+  566  git pull origin main 
+  567  npm run dev
+  568  npm run seed
+  569  npm run dev
+  570  npm run dev
+  571  npm run dev
+  572  npm run dev:server
+  573  npx diagnose-endpoint@1.1.0 --endpoint=http://localhost:3001/graphql
+  574  killall node
+  575  npm run dev:server
+  576  npm run seed
+  577  npm run dev:server
+  578  npm run dev
+  579  git add -A
+  580  git commit -m "user profile loads correctly and other users profiles also load"
+  581  git push origin 36-user-profile-page
+  582  git add -A
+  583  git commit -m "commiting changes"
+  584  git pull origin main 
+  585  git add -A
+  586  git commit "merged resolved"
+  587  git commit -m  "merged resolved"
+  588  npm run dev
+  589  npm run dev
+  590  git add -A
+  591  git commit -m "commiting changes for authapp"
+  592  git push origin 36-user-profile-page
+  593  git add -A
+  594  git commit -m "commiting changes"
+  595  git pull origin main 
+  596  npm run dev
+  597  npm start
+  598  npm run dev
+  599  killall node
+  600  npm start
+  601  killall node
+  602  npm start
+  603  mysql -u root -p
+  604  git add -A
+  605  git commit -m "commiting changes"
+  606  git push origin main
+  607  git add -A
+  608  git commit -m "pushing to heroku"
+  609  git push heroku main 
+  610  heroku logs --tail
+  611  git add -A
+  612  git commit -m "commiting to heroku"
+  613  git push heroku main 
+  614  heroku login
+  615  git add -A
+  616  git commit -m "commiting to heroku"
+  617  git push heroku main 
+  618  git add -A
+  619  git commit -m "added scrrenshot to Readme"
+  620  git push origin main 
+  621  heroku logs --tail
+  622  git remote -v
+  623  git add -A
+  624  git commit -m "commiting to heroku"
+  625  git push
+  626  git push
+  627  git add -A
+  628  git commit -m "commiting to heroku"
+  629  git push
+  630  git remote -v
+  631  git add -A
+  632  git commit -m "commiting to heroku"
+  633  git push heroku main 
+  634  heroku logs --tail
+  635  heroku logs --tail
+  636  git remote rm heroku
+  637  remote -v
+  638  git remote rm heroku
+  639  git add -A
+  640  npm start
+  641  npm i dotenv
+  642  npm start
+  643  killall node
+  644  npm start
+  645  heroku logs --tail
+  646  git add -A
+  647  git commit -m "capitalized model first letter"
+  648  git push origin main 
+  649  git add -A
+  650  git commit -m "javascript and stylesheet were completed"
+  651  git push origin main 
+  652  git add -A
+  653  git commit -m "commiting to heroku"
+  654  git push heroku main 
+  655  heroku logs --tail
+  656  git add -A
+  657  git commit -m "commiting to heroku"
+  658  git push heroku main 
+  659  git add -A
+  660  git commit -m "added javascript and css"
+  661  git push origin main
+  662  git add -A
+  663  git commit -m "commiting again"
+  664  git push origin main
+  665  npm start
+  666  git add -A
+  667  git commit -m "lower cased the models"
+  668  git push origin main
+  669  git add -A
+  670  git commit -m "lower cased the models"
+  671  git push heroku main 
+  672  heroku logs --tail
+  673  git add -A
+  674  git commit -m "deleted node_modules"
+  675  git push origin main 
+  676  git add -A
+  677  git commit -m "deleted node_modules"
+  678  git push heroku main 
+  679  heroku logs --tail
+  680  git add -A
+  681  git commit -m "added seed data"
+  682  git push origin main 
+  683  git remote rm heroku
+  684  remote -v
+  685  git remote add heroku https://git.heroku.com/damp-tor-29194.git
+  686  git remote -v 
+  687  git remote add heroku https://git.heroku.com/damp-tor-29194.git
+  688  git add -A
+  689  git commit -m "commiting to heroku"
+  690  git push heroku main 
+  691  heroku logs --tail
+  692  git rm -r --cached node_modules
+  693  git rm -r --cached node_modules
+  694  git add -A
+  695  git commit -m "commiting to heroku"
+  696  git push heroku main 
+  697  heroku logs --tail
+  698  git add -A
+  699  git commit -m "commiting to heroku"
+  700  git push heroku main 
+  701  heroku logs --tail
+  702  git add -A
+  703  git commit -m "commiting to heroku"
+  704  git push heroku main 
+  705  mysql -u root -p 
+  706  npm run dev
+  707  killall nod
+  708  killall node
+  709  npm start
+  710  npm run dev
+  711  git add -A
+  712  git commit -m "added javascript and css"
+  713  git push origin main
+  714  clear
+  715  git fetch origin\ngit checkout 88-adding-more-seeds
+  716  git add -A
+  717  git commit -m "commitin changes"
+  718  git pull origin main 
+  719  npm run dev
+  720  git branch
+  721  git add -A
+  722  git commit -m "added more comments seeds"
+  723  git push origin 88-adding-more-seeds
+  724  git add -A
+  725  git commit -m "added more user seeds"
+  726  git push origin 88-adding-more-seeds
+  727  git add -A
+  728  git commit -m "commiting chnages"
+  729  git pull origin main 
+  730  git add -A
+  731  git commit -m "pushing changes"
+  732  git add -A
+  733  git commit -m "pulling changes"
+  734  git pull origin main 
+  735  git add -A
+  736  git commit -m "conflict resolved"
+  737  git pull origin main 
+  738  git add -A
+  739  npm run develop
+  740  npm run dev
+  741  npm run seed
+  742  npm run seed
+  743  npm run seed
+  744  npm run dev
+  745  npm run dev
+  746  npm run seed
+  747  killall node
+  748  npm run dev
+  749  npm run dev
+  750  npm run dev
+  751  git add -a
+  752  git add -A
+  753  git commit -m "pulling from main"
+  754  git pull origin main 
+  755  npm run seed
+  756  npm run dev
+  757  killall node
+  758  npm run dev
+  759  npm run seed
+  760  npm run dev
+  761  git add -A
+  762  git commit -m "pulling changes"
+  763  git pull origin main 
+  764  git add -A
+  765  git commit -m "merged resolved"
+  766  npm run seed
+  767  npm run dev
+  768  git add -A
+  769  git commit -m "added another project to the portfolio"
+  770  git push origin main 
+  771  npm run deploy
+  772  npm run deploy
+  773  npm run deploy
+  774  git add -A
+  775  git commit -m "added new photo for the third portfolio"
+  776  git push origin main 
+  777  npm run deploy
+  778  git add -A
+  779  git commit -m "changed the title of the portfolio"
+  780  git push origin main
+  781  gti add -A
+  782  git add -A
+  783  git commit -m "modified the code to meet acceptance criteria,updated the session, updated controllers, seeds and models"
+  784  git commit -m "modified the code to meet acceptance criteria,updated the session, updated controllers, seeds and models, still need to javescript, css and handlebars"
+  785  git push origin main 
+  786  git add -A
+  787  git commit -m "modified the code to meet acceptance criteria,updated the session, updated controllers, seeds and models, still need to javescript, css and handlebars"
+  788  git push heroku main 
+  789  git add -A
+  790  git commit -m "deleted the unused code file"
+  791  git push origin main
+  792  git clone git@github.com:coding-boot-camp/super-disco.git
+  793  cd desktop
+  794  ls
+  795  cd Folders
+  796  ls
+  797  cd Sandbox
+  798  ls
+  799  cd practice\ examples
+  800  git clone git@github.com:coding-boot-camp/super-disco.git
+  801  git add -A
+  802  git commit -m "finished the javascript, with timeblocks divs and localstorage"
+  803  git push origin main 
+  804  git add -A
+  805  git commit -m "added Link to ReadME"
+  806  git push origin main
+  807  git add -A
+  808  git commit -m "added till 5pm"
+  809  git push origin main 
+  810  git add -A
+  811  git commit -m "moved the files to develop folder"
+  812  git push origin main 
+  813  npm run deply
+  814  npm run deploy
+  815  git add -A
+  816  git commit -m "moved the css and javascript to the assets folder"
+  817  git push origin main
+  818  cd desktop
+  819  pwd
+  820  ls
+  821  02_Pathways_to_ Success_Part_1
+  822  ls
+  823  cd 02_Pathways_to_Success_Part_1
+  824  pwd
+  825  /usr/bin/python3 /Users/lilybro/Desktop/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  826  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  827  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  828  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  829  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py"
+  830  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py"
+  831  /usr/bin/python3 /Users/lilybro/Desktop/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  832  /usr/bin/python3 /Users/lilybro/Desktop/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  833  /usr/bin/python3 /Users/lilybro/Desktop/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py
+  834  conda activate dev
+  835  pip -V
+  836  pip freeze 
+  837  pip install fire
+  838  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  839  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/04_Automating_Equity_Rounds/Solved/automated_equity_rounds.py"
+  840  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/04_Automating_Equity_Rounds/Solved/automated_equity_rounds.py"
+  841  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  842  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  843  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  844  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  845  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  846  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  847  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  848  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  849  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  850  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py"
+  851  pip install questionary
+  852  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/unit2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  853  npm run test
+  854  npm run test
+  855  npm run test
+  856  npm run test
+  857  npm run test
+  858  npm run test
+  859  npm run test
+  860  npm run test
+  861  git add -A
+  862  git commit -m "all tests passed"
+  863  git push origin main 
+  864  npm run test
+  865  node index.js
+  866  npm run test
+  867  npm run test
+  868  npm run test
+  869  npm runtest
+  870  npm run test
+  871  npm run test
+  872  npm run test
+  873  npm run test
+  874  npm run test
+  875  npm run test
+  876  npm run test
+  877  node index.js
+  878  node index.js
+  879  npm run test
+  880  git add -A
+  881  git commit -m "added the heroku app link"
+  882  git commit -m "added the heroku deployment link to README"
+  883  git push origin main 
+  884  git init
+  885  git add -A
+  886  git commit -m "initial commit"
+  887  git remote add origin git@github.com:briabr/bitcoin-financial-analysis.git\ngit branch -M main\ngit push -u origin main
+  888  git add -A
+  889  git commit -m "created README and .gitignore file"
+  890  git push origin main 
+  891  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  892  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  893  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  894  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  895  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  896  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  897  conda activate dev
+  898  git add -A
+  899  git add -A
+  900  git commit -m "commiting changes"
+  901  git pull origin main 
+  902  git pull origin main 
+  903  jupyter lab
+  904  pip install fire
+  905  conda activate dev
+  906  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/CLI/cli.py"
+  907  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/CLI/cli.py"
+  908  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/CLI/cli.py"
+  909  import fire
+  910  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/CLI/cli.py"
+  911  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/unit2/cli.py"
+  912  pip show fire
+  913  /opt/anaconda3/bin/python "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/CLI/cli.py"
+  914  /opt/anaconda3/bin/python "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/CLI/cli.py"
+  915  python cli.py --pants=True
+  916  /opt/anaconda3/bin/python "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/CLI/cli.py"
+  917  /opt/anaconda3/bin/python "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/CLI/cli.py"
+  918  python cli.py --pants=True\n
+  919  pip install fire
+  920  conda activate dev
+  921  \n2.3.3\nIntroduction to Python Fire\nNow that we’ve introduced how to use Bash commands at the command line, we'll start building CLIs for our programs. To do that, we need to use some libraries, and the first library that we'll explore is the Python Fire library by Google.\n\nThis library can do all the following things:\n\nAutomatically generate CLIs from any Python object.\n\nCreate a CLI for a Python program.\n\nHelp you develop and debug Python code.\n\nHelp you explore existing code or turn other people’s code into a CLI.\n\nEase transitioning between the command line and Python.\n\nAll these features prove valuable when we want to write, test, and debug code.\n\nDEEP DIVE\nBefore we can use Fire, we need to install it. Let’s do that next.\n\nInstall and Import Python Fire\nYou can install Fire from the Python Package Index (PyPI) by using the pip command. If you haven't yet installed Fire, run the following command in your terminal:\n\npip install fire
+  922  pip install fire\n
+  923  pwd
+  924  cd desktop
+  925  cd Folders
+  926  cd Fintech-Workspace
+  927  cd ..
+  928  cd ..
+  929  ls
+  930  cd Unit\ activities
+  931  ls
+  932  cd unit2
+  933  ls
+  934  cd unit2-prework
+  935  ls
+  936  cd CLI
+  937  pip install fire
+  938  pwd
+  939  cd..
+  940  cd..
+  941  cd..
+  942  cd..
+  943  cd ..
+  944  cd ..
+  945  cd ..
+  946  cd ..
+  947  cd ..
+  948  cd ..
+  949  cd
+  950  pip install fire
+  951  conda activate base
+  952  /opt/anaconda3/bin/python "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  953  /opt/anaconda3/bin/python "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  954  python app.py --credit_score=750\n\n
+  955  ls
+  956  cd Unsolved
+  957  conda activate base
+  958  conda activate dev
+  959  python app.py --credit_score=750\n\n
+  960  python app.py --credit_score=750 --debt=5000 ==income=60000.\n\n
+  961  python app.py --credit_score=750 --debt=5000 ==income=60000.\n\n
+  962  python app.py --credit_score=750 --debt=5000 --income=60000.\n\n
+  963  pip install questionary
+  964  conda activate base
+  965  python app.py --credit_score=750 --debt=5000 --income=20000\n
+  966  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/questionary/dialog.py"
+  967  /usr/bin/python3 "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/questionary/dialog.py"
+  968  /opt/anaconda3/bin/python "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/questionary/dialog.py"
+  969  /opt/anaconda3/bin/python "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/questionary/dialog.py"
+  970  /opt/anaconda3/bin/python "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/questionary/dialog.py"
+  971  pip install questionary
+  972  conda activate base
+  973  python app.py --credit_score=750 --debt=5000 --income=20000\n
+  974  /opt/anaconda3/bin/python "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py"
+  975  conda activate base
+  976  /opt/anaconda3/bin/python "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py"
+  977  /opt/anaconda3/bin/python "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py"
+  978  /opt/anaconda3/bin/python "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py"
+  979  /opt/anaconda3/bin/python "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py"
+  980  conda activate base
+  981  conda activate dev
+  982  conda activate base
+  983  /opt/anaconda3/bin/python "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py"
+  984  /opt/anaconda3/bin/python "/Users/lilybro/Desktop/Unit activities/unit2/unit2-prework/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py"
+  985  git add -A
+  986  git add -a
+  987  git add -A
+  988  git status
+  989  conda activate base
+  990  conda activate dev
+  991  git add -A
+  992  git status
+  993  git init
+  994  cd desktop
+  995  cd folders
+  996  ls
+  997  cd Fintech-Workspace
+  998  cd HomeworkRepo
+  999  git clone git@github.com:briabr/loan-qualifier-application.git
+ 1000  conda activate dev
+ 1001  git init
+ 1002  git add -a
+ 1003  git commit -m "added brief description to README"
+ 1004  git push origin main 
+ 1005  git add -A
+ 1006  git commit -m "updated README"
+ 1007  git push origin main 
+ 1008  conda activate base
+ 1009  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1010  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1011  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1012  pwd
+ 1013  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1014  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1015  conda activate base
+ 1016  conda activate base
+ 1017  conda activate base
+ 1018  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/qualifier/filters/max_loan_size.py
+ 1019  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1020  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1021  pwd
+ 1022  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1023  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1024  pwd
+ 1025  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1026  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1027  pwd
+ 1028  /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application
+ 1029  pwd
+ 1030  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1031  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1032  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1033  git add -A
+ 1034  git commit -m "updated the CLI with save_loans and save_csv prompts"
+ 1035  git push origin main 
+ 1036  conda activate base
+ 1037  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1038  pwd
+ 1039  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1040  clear
+ 1041  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1042  clear
+ 1043  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1044  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1045  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1046  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1047  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1048  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1049  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1050  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1051  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1052  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/qualifier/utils/fileio.py
+ 1053  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1054  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/qualifier/utils/fileio.py
+ 1055  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1056  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1057  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/qualifier/utils/fileio.py
+ 1058  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1059  git add -A
+ 1060  git commit -m "organized the code, updated the CLI"
+ 1061  git push origin main 
+ 1062  conda activate base
+ 1063  conda activate base
+ 1064  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1065  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/qualifier/utils/fileio.py
+ 1066  /opt/anaconda3/bin/python /Users/lilybro/Desktop/Folders/Fintech-Workspace/HomeworkRepo/loan-qualifier-application/app.py
+ 1067  git add -A
+ 1068  git commit -m "the output file is written"
+ 1069  git push origin main 
+ 1070  git add -A
+ 1071  git commit -m "added badges, Usage, technologies, installations and contribution"
+ 1072  git push origin main 
